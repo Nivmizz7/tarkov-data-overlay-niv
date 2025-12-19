@@ -1,28 +1,22 @@
 {
   "tasks": {
-    "5936d90786f7742b1420ba5b": {
+    "5c0d190cd09282029f5390d8": {
       "minPlayerLevel": 10
     },
-    "66058cb22cee99303f1ba067": {
-      "minPlayerLevel": 10
-    },
-    "6179b5eabca27a099552e052": {
+    "5c0bd94186f7747a727f09b2": {
       "minPlayerLevel": 18
     },
-    "6179b5b06e9dd54ac275e409": {
+    "63a5cf262964a7488f5243ce": {
       "minPlayerLevel": 22
     },
-    "6179b57a5c1f6766cc09a00e": {
+    "64f5deac39e45b527a7c4232": {
       "minPlayerLevel": 25
     },
-    "6179b53f6e9dd54ac275e406": {
+    "6574e0dedc0d635f633a5805": {
       "minPlayerLevel": 28
     },
-    "6179b4ffc52e8b00141a8c70": {
+    "669fa3a40c828825de06d6a1": {
       "minPlayerLevel": 32
-    },
-    "675c1ff1a757ddd00404f0aa": {
-      "minPlayerLevel": 35
     }
   },
   "editions": {
@@ -82,7 +76,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-19T08:10:47.039Z",
-    "sha256": "ef7f38494988c0c3c065f8355b50e4f3c596cb983c83074022a9cb8afb9aeef2"
+    "generated": "2025-12-19T11:26:12.691Z",
+    "sha256": "4cf3b67cb3e08f702bc93b10baf43726286e5c1331359af2aa12a176cc06018e"
   }
 }
