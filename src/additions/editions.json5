@@ -13,7 +13,7 @@
   "standard": {
     "id": "standard",
     "value": 1,
-    "title": "Standard Edition",
+    "title": "Standard",
     "defaultStashLevel": 1,
     "defaultCultistCircleLevel": 0,
     "traderRepBonus": {}
@@ -22,7 +22,7 @@
   "left_behind": {
     "id": "left_behind",
     "value": 2,
-    "title": "Left Behind Edition",
+    "title": "Left Behind",
     "defaultStashLevel": 2,
     "defaultCultistCircleLevel": 0,
     "traderRepBonus": {}
@@ -31,7 +31,7 @@
   "prepare_for_escape": {
     "id": "prepare_for_escape",
     "value": 3,
-    "title": "Prepare for Escape Edition",
+    "title": "Prepare for Escape",
     "defaultStashLevel": 3,
     "defaultCultistCircleLevel": 0,
     "traderRepBonus": {}
@@ -40,7 +40,7 @@
   "edge_of_darkness": {
     "id": "edge_of_darkness",
     "value": 4,
-    "title": "Edge of Darkness Edition",
+    "title": "Edge of Darkness",
     "defaultStashLevel": 4,
     "defaultCultistCircleLevel": 0,
     "traderRepBonus": {
@@ -58,7 +58,7 @@
   "unheard": {
     "id": "unheard",
     "value": 5,
-    "title": "The Unheard Edition",
+    "title": "The Unheard",
     "defaultStashLevel": 5,
     "defaultCultistCircleLevel": 3,
     "traderRepBonus": {
@@ -76,7 +76,7 @@
   "edge_of_darkness_unheard": {
     "id": "edge_of_darkness_unheard",
     "value": 6,
-    "title": "Edge of Darkness + Unheard Edition",
+    "title": "Edge of Darkness + Unheard",
     "defaultStashLevel": 5,
     "defaultCultistCircleLevel": 3,
     "traderRepBonus": {
