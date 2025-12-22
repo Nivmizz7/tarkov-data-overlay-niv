@@ -21,10 +21,13 @@ Then merge it with tarkov.dev responses. See [Integration Guide](docs/INTEGRATIO
 
 ## Current Corrections
 
-| Entity | Field | tarkov.dev | Correct |
-|--------|-------|------------|---------|
+### Task Level Requirements
+
+| Task | Field | tarkov.dev | Correct |
+|------|-------|------------|---------|
 | Grenadier | minPlayerLevel | 20 | 10 |
 | Easy Money - Part 1 | minPlayerLevel | 20 | 10 |
+| Crisis | minPlayerLevel | 48 | 38 |
 | Test Drive - Part 1 | minPlayerLevel | 30 | 18 |
 | Test Drive - Part 2 | minPlayerLevel | 30 | 22 |
 | Test Drive - Part 3 | minPlayerLevel | 30 | 25 |
@@ -32,9 +35,39 @@ Then merge it with tarkov.dev responses. See [Integration Guide](docs/INTEGRATIO
 | Test Drive - Part 5 | minPlayerLevel | 40 | 32 |
 | Test Drive - Part 6 | minPlayerLevel | 40 | 35 |
 
+### Task Objective Corrections
+
+| Task | Objective | Field | tarkov.dev | Correct |
+|------|-----------|-------|------------|---------|
+| Grenadier | Eliminate PMCs with grenades | count | 8 | 5 |
+
+### Task Prerequisite Corrections
+
+| Task | Change |
+|------|--------|
+| Test Drive - Part 1 | taskRequirements changed from Grenadier to Shooting Cans |
+
+### Task Name/Link Corrections
+
+| Task | Field | tarkov.dev | Correct |
+|------|-------|------------|---------|
+| Half Empty | name | "Half-Empty" | "Half Empty" |
+| Half Empty | wikiLink | Half-Empty | Half_Empty |
+
+### Disabled Tasks (Event-Only)
+
+These tasks appear in tarkov.dev but are only available during special events:
+
+- Friend from Norvinsk - Part 1
+- Friend from Norvinsk - Part 2
+- Friend from Norvinsk - Part 3
+- Friend from Norvinsk - Part 4
+- Friend from Norvinsk - Part 5
+- Breathing Room
+
 ## Current Additions
 
-- **Game Editions**: Standard, Left Behind, Prepare for Escape, Edge of Darkness, Unheard
+- **Game Editions**: Standard, Left Behind, Prepare for Escape, Edge of Darkness, The Unheard, Edge of Darkness + Unheard
 
 ## Contributing
 

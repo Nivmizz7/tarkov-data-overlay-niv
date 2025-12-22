@@ -1,9 +1,14 @@
 {
-  // Grenadier - Level requirement incorrect
+  // Grenadier - Level requirement and objective count incorrect
   // Proof: https://escapefromtarkov.fandom.com/wiki/Grenadier
-  // tarkov.dev shows 20, wiki confirms 10
+  // tarkov.dev shows level 20 and 8 kills, wiki confirms level 10 and 5 kills
   "5c0d190cd09282029f5390d8": {
     minPlayerLevel: 10, // Was: 20
+    objectives: {
+      "5c1b760686f77412780211a3": {
+        count: 5, // Was: 8
+      },
+    },
   },
 
   // Test Drive - Part 1 - Level requirement and task prerequisite incorrect

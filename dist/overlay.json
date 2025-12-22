@@ -1,7 +1,12 @@
 {
   "tasks": {
     "5c0d190cd09282029f5390d8": {
-      "minPlayerLevel": 10
+      "minPlayerLevel": 10,
+      "objectives": {
+        "5c1b760686f77412780211a3": {
+          "count": 5
+        }
+      }
     },
     "5c0bd94186f7747a727f09b2": {
       "minPlayerLevel": 18,
@@ -137,7 +142,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-21T02:53:21.570Z",
-    "sha256": "e92e016d7a2ffee954127fa0d4bd03b7e2cde1b06e4fb7adf095c9cbe46bdd2d"
+    "generated": "2025-12-22T16:27:12.621Z",
+    "sha256": "e5d87b23c433e1b93b5ed767a0ba0ef54270ec0343b386fca6a90892ba43023e"
   }
 }
