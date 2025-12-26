@@ -128,4 +128,10 @@
       ],
     },
   },
+
+  // The Huntsman Path - Relentless - Minimum player level incorrect
+  // Proof: https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Relentless
+  "60e71e8ed54b755a3b53eb67": {
+    minPlayerLevel: 55, // Was: 65
+  },
 }

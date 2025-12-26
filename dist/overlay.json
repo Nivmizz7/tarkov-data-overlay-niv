@@ -75,6 +75,9 @@
           }
         ]
       }
+    },
+    "60e71e8ed54b755a3b53eb67": {
+      "minPlayerLevel": 55
     }
   },
   "editions": {
@@ -156,7 +159,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-25T11:06:28.651Z",
-    "sha256": "f9415494050ba09818c4a39ee1eec59692f3d1b2e20d13aac5dbd006ac987a77"
+    "generated": "2025-12-26T13:51:27.508Z",
+    "sha256": "7ad244451f62b33f791f3b17530d7318bae7f88cb6f47ee73c0e8a4a5bc4bf4f"
   }
 }
