@@ -78,6 +78,16 @@
     },
     "60e71e8ed54b755a3b53eb67": {
       "minPlayerLevel": 55
+    },
+    "5bc479e586f7747f376c7da3": {
+      "taskRequirements": [
+        {
+          "task": {
+            "id": "5bc4776586f774512d07cf05",
+            "name": "The Tarkov Shooter - Part 1"
+          }
+        }
+      ]
     }
   },
   "editions": {
@@ -159,7 +169,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-26T13:51:27.508Z",
-    "sha256": "7ad244451f62b33f791f3b17530d7318bae7f88cb6f47ee73c0e8a4a5bc4bf4f"
+    "generated": "2025-12-26T13:59:05.907Z",
+    "sha256": "5d6dcddc2f4fc8361d2aed2ba8281e9e5c3b1ff0e7a5f63433abb5b0cd181e95"
   }
 }

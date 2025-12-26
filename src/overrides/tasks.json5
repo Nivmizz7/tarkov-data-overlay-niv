@@ -134,4 +134,17 @@
   "60e71e8ed54b755a3b53eb67": {
     minPlayerLevel: 55, // Was: 65
   },
+
+  // The Tarkov Shooter - Part 2 - prerequisite missing
+  // tarkov.dev shows no prerequisites, should require Part 1
+  "5bc479e586f7747f376c7da3": {
+    taskRequirements: [
+      {
+        task: {
+          id: "5bc4776586f774512d07cf05",
+          name: "The Tarkov Shooter - Part 1",
+        },
+      },
+    ], // Was: [] (empty)
+  },
 }
