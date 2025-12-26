@@ -48,11 +48,18 @@
     },
   },
 
-  // Hell on Earth - Part 1 - Experience incorrect
+  // Hell on Earth - Part 1 - Experience incorrect + prerequisite missing
   // Proof: https://escapefromtarkov.fandom.com/wiki/Hell_on_Earth_-_Part_1
   // Verified in-game: 2300 XP
   "666314b0acf8442f8b0531a1": {
-    experience: 2300, // Was: 15600
+    taskRequirements: [
+      {
+        task: {
+          id: "666314b4d7f171c4c20226c3",
+          name: "The Good Times - Part 1",
+        },
+      },
+    ], // Was: [] (empty)    experience: 2300, // Was: 15600
   },
 
   // Hell on Earth - Part 2 - Experience incorrect
