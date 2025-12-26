@@ -59,6 +59,7 @@ Then merge it with tarkov.dev responses. See [Integration Guide](docs/INTEGRATIO
 | Hell on Earth - Part 1 | taskRequirements changed from [] (empty) to The Good Times - Part 1 |
 | Revision - Lighthouse | taskRequirements changed from [] (empty) to Revision - Reserve |
 | Energy Crisis | taskRequirements changed from [] (empty) to Farming - Part 4 |
+| Drip-Out - Part 2 | taskRequirements changed from [] (empty) to Dandies |
 
 ### Task Name/Link Corrections
 

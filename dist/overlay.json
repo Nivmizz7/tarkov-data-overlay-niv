@@ -115,6 +115,16 @@
           }
         }
       ]
+    },
+    "6615141bfda04449120269a7": {
+      "taskRequirements": [
+        {
+          "task": {
+            "id": "65734c186dc1e402c80dc19e",
+            "name": "Dandies"
+          }
+        }
+      ]
     }
   },
   "editions": {
@@ -196,7 +206,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-26T14:14:28.673Z",
-    "sha256": "8e895fa84b7567384f11fa92ab497750d74bbba279f4c037bdc9434131ba1824"
+    "generated": "2025-12-26T14:19:28.083Z",
+    "sha256": "2a8a1653e281eb1e2b4d5ee70d46ef4379ac35c7a45657a506b9aafbcb607925"
   }
 }

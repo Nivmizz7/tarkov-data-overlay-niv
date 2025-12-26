@@ -180,4 +180,17 @@
       },
     ], // Was: [] (empty)
   },
+
+  // Drip-Out - Part 2 - prerequisite should unlock on accept
+  // Proof: https://escapefromtarkov.fandom.com/wiki/Drip-Out_-_Part_2
+  "6615141bfda04449120269a7": {
+    taskRequirements: [
+      {
+        task: {
+          id: "65734c186dc1e402c80dc19e",
+          name: "Dandies",
+        },
+      },
+    ], // Was: [] (empty)
+  },
 }
