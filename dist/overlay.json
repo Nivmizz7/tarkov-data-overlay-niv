@@ -32,7 +32,14 @@
       }
     },
     "666314b0acf8442f8b0531a1": {
-      "experience": 2300
+      "taskRequirements": [
+        {
+          "task": {
+            "id": "666314b4d7f171c4c20226c3",
+            "name": "The Good Times - Part 1"
+          }
+        }
+      ]
     },
     "666314b2a9290f9e0806cca3": {
       "experience": 16000
@@ -169,7 +176,7 @@
   },
   "$meta": {
     "version": "1.0.0",
-    "generated": "2025-12-26T13:59:05.907Z",
-    "sha256": "5d6dcddc2f4fc8361d2aed2ba8281e9e5c3b1ff0e7a5f63433abb5b0cd181e95"
+    "generated": "2025-12-26T14:08:30.725Z",
+    "sha256": "135f71466fd01b4eefa28630653653a85d097621627752631f1af955fcd0f2bf"
   }
 }
