@@ -154,4 +154,17 @@
       },
     ], // Was: [] (empty)
   },
+
+  // Revision - Lighthouse - prerequisite missing
+  // Proof: https://escapefromtarkov.fandom.com/wiki/Revision_-_Lighthouse
+  "6179b4d1bca27a099552e04e": {
+    taskRequirements: [
+      {
+        task: {
+          id: "6086c852c945025d41566124",
+          name: "Revision - Reserve",
+        },
+      },
+    ], // Was: [] (empty)
+  },
 }
